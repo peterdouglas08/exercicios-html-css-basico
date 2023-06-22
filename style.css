@@ -1,0 +1,28 @@
+body, li, .lista-alimentos{
+    background-color: #bbbbbb;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 5px;
+    font-family: ubuntu, sans-serif;
+}
+
+h1 {
+    margin: 8px;
+    font-family: ubuntu, sans-serif;
+    text-decoration: underline #ff0000;
+
+}
+
+.total {
+    font-weight: bolder;
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+span {
+    background-color: #ff0000;
+    font-weight: bolder;
+    color: #fff;
+    border-radius: 5px;
+    padding: 5px;
+}
